@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- ⚡ Fun fact [I love listening to music on Spotify while coding](I love listening to music on Spotify while coding)
+- ⚡ Fun fact [I love listening to music on Spotify while coding]
 
 - 💞 I’m looking to collaborate on **open-source projects**
 
